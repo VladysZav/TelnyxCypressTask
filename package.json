@@ -4,6 +4,7 @@
   "description": "cypress automation",
   "main": "index.js",
   "scripts": {
+    
     "testOpen:cy": "cypress open",
     "testRun:cy": "cypress run"
   },
