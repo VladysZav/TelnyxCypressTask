@@ -7,5 +7,8 @@
 
 ### There are 10 test cases in the autotests
 
-### I used Cypress version 10.6.0
+### To get started, you must:
+####  1. Copy this repository to your computer
+####  2. Install Node.js 14.x+  
+####  3. Install Cypress version 10.6.0
 
