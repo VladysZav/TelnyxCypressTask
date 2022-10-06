@@ -1,7 +1,3 @@
-# TelnyxCypressTask
-<h1 align="center">Hi there, I'm Vladyslav</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">QA Trainee</h3>
 
 ## This is my task to test the Telnyx site with Cypress
 
@@ -9,6 +5,7 @@
 
 ### To get started, you must:
 ####  1. Copy this repository to your computer
-####  2. Install Node.js 14.x+  
-####  3. Install Cypress version 10.6.0
+####  2. Install Node.js 16.x+  
+####  3. Create the package.json "npm init"
+####  4. Install Cypress last version "npm install cypress --save-dev"
 
