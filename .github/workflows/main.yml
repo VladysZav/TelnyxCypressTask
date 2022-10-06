@@ -4,7 +4,7 @@ name: tests
         branches:
             - master
 jobs:
-    generate-report:
+    testing:
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v2
