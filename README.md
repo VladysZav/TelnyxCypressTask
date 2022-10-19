@@ -8,4 +8,4 @@
 ####  2. Install Node.js 16.x+  
 ####  3. Create the package.json "npm init"
 ####  4. Install Cypress last version "npm install cypress --save-dev"
-
+####  5. Run tests "cypress run" or "cypress open"
